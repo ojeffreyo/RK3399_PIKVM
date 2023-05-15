@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "zgoolib")(type "KiCad")(uri "${KIPRJMOD}/zglib/zgoolib.pretty")(options "")(descr ""))
+)
