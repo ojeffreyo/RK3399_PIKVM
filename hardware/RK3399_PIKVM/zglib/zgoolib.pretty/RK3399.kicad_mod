@@ -873,4 +873,9 @@
   (pad "Y29" smd circle (at 8.45 2.6) (size 0.33 0.33) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 97825174-ea7f-45d4-b19d-6be59fc1dc99))
   (pad "Y30" smd circle (at 9.1 2.6) (size 0.33 0.33) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6ae6688-5c8f-4ae5-a268-bd9f32464e3c))
   (pad "Y31" smd circle (at 9.75 2.6) (size 0.33 0.33) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 23cee4eb-5afb-4f36-8376-71abc5bc0936))
+  (model "${KIPRJMOD}/zglib/3D_Models/RK3399.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

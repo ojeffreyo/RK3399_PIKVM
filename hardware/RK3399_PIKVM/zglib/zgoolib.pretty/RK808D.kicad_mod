@@ -121,4 +121,9 @@
   (pad "67" smd roundrect (at -2.45 -3.435 90) (size 0.84 0.17) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.02) (tstamp a07834e8-54e8-40a6-b4d2-45929748f2bd))
   (pad "68" smd roundrect (at -2.8 -3.435 90) (size 0.84 0.17) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.02) (tstamp b742e7a3-d5b1-473b-b9f8-ad0e3b1adc88))
   (pad "69" smd rect (at 0 0) (size 5.63 5.63) (layers "F.Cu" "F.Mask") (tstamp c661ad65-dfc2-41a9-8018-d51cb7fa6be0))
+  (model "${KIPRJMOD}/zglib/3D_Models/RK808-D.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

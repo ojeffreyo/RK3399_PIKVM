@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "zgoolib")(type "KiCad")(uri "${KIPRJMOD}/zglib/zgoolib.kicad_sym")(options "")(descr ""))
+  (lib (name "RK3399")(type "KiCad")(uri "${KIPRJMOD}/zglib/RK3399.kicad_sym")(options "")(descr ""))
+)

@@ -5,7 +5,7 @@
       (effects (font (size 1.000693 1.000693) (thickness 0.15)))
     (tstamp f8ccaf88-d2e2-4c7c-8727-598ef28b6853)
   )
-  (fp_text value "BGA80C65P10X10_700X700X100N" (at 13.36041 4.45347) (layer "F.Fab")
+  (fp_text value "BGA80C65P10X10_700X700X100N" (at 0 4.8) (layer "F.Fab")
       (effects (font (size 1.001906 1.001906) (thickness 0.15)))
     (tstamp 367680cd-bdf1-4a53-994e-46ce5a94bbfa)
   )
@@ -125,4 +125,9 @@
   (pad "K8" smd circle (at 1.625 2.925) (size 0.24 0.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2241d838-3730-4d7c-b6fa-e2c458243162))
   (pad "K9" smd circle (at 2.275 2.925) (size 0.24 0.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8fede025-cd51-4b96-8d90-7039610da793))
   (pad "K10" smd circle (at 2.925 2.925) (size 0.24 0.24) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 460a36ce-1b05-41f5-b920-d299232112e2))
+  (model "${KIPRJMOD}/zglib/3D_Models/BGA-100_6.0x6.0mm_Layout11x11_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
