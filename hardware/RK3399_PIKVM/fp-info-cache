@@ -1,4 +1,4 @@
-21906034364603538
+21909404034905501
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91147,6 +91147,13 @@ RK3399
 828
 828
 zgoolib
+RTL8188_QFN40
+
+
+0
+41
+41
+zgoolib
 SWPA3010
 
 
@@ -91174,6 +91181,13 @@ TF-SMD_TF-02
 0
 13
 13
+zgoolib
+TPS54821
+
+
+0
+19
+19
 zgoolib
 USB_C_PIN16
 
