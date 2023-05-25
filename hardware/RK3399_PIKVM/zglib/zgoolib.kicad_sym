@@ -8041,7 +8041,7 @@
     (property "Value" "" (at -72.39 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "zgoolib:TF-SMD_TF-02" (at 0 -24.13 0)
+    (property "Footprint" "zgoolib:TF-SMD_TF-01A" (at 0 -24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at -72.39 1.27 0)

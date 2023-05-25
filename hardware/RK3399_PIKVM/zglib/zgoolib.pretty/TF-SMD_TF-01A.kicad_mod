@@ -1,11 +1,11 @@
-(footprint "TF-SMD_TF-02" (version 20221018) (generator pcbnew)
+(footprint "TF-SMD_TF-01A" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "U1" (at -0.047 -6.575) (layer "F.SilkS")
       (effects (font (size 1.143 1.143) (thickness 0.152)) (justify left))
     (tstamp 82a1e726-8dfe-4849-ae9c-8262646a63db)
   )
-  (fp_text value "TF-SMD_TF-02" (at -0.047 -8.353) (layer "F.Fab") hide
+  (fp_text value "TF-SMD_TF-01A" (at -0.047 -8.353) (layer "F.Fab") hide
       (effects (font (size 1.143 1.143) (thickness 0.152)) (justify left))
     (tstamp b9b9ddc5-b7bc-4945-bf3e-b3f0c02a16bb)
   )
@@ -48,4 +48,9 @@
   (pad "11" smd rect (at -7.746 5.3) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2a33049f-7fa0-4041-88d0-5b71fb10792f))
   (pad "12" smd rect (at 7.754 5.3) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2c839f84-6f28-48de-aec1-e44a60ee4ae9))
   (pad "13" smd rect (at 6.854 -4.3) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5d000407-f784-4177-beb8-9be9a74e8730))
+  (model "${KIPRJMOD}/zglib/3D_Models/TF-01A--3DModel-STEP-56544.STEP"
+    (offset (xyz -0.95 -5.7 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
